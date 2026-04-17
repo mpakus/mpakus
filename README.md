@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Renat 👋</h1>
 
 <p align="center">
-  <b>Senior Full-Stack Developer · Solo Founder · Made in Austin ⭐︎ Texas</b><br/>
+  <b>Senior Full-Stack Developer · Austin ⭐︎ Texas</b><br/>
   14+ years shipping production systems in <b>Ruby / Ruby on Rails</b> and <b>Elixir / Phoenix</b>.<br/>
   I build web apps, mobile apps, and AI-native SaaS — from napkin sketch to live production.
 </p>
