@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://aomega.co"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-aomega.co-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://scaledfactorialproduct.com"><img alt="Agency" src="https://img.shields.io/badge/Agency-Scaled_Factorial_Product-7C3AED?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/mpakus/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mpakus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:renat@aomega.co"><img alt="Email" src="https://img.shields.io/badge/Email-renat@aomega.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!--<a href="https://scaledfactorialproduct.com"><img alt="Team" src="https://img.shields.io/badge/Agency-Scaled_Factorial_Product-7C3AED?style=for-the-badge"></a>-->
 </p>
 
 ---
