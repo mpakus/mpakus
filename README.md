@@ -111,7 +111,6 @@ I share what I learn on LinkedIn — Elixir / Ruby libraries, AI agent workflows
 - 🌐 **[aomega.co](https://aomega.co)** — personal site & resume
 <!--- 🏢 **[scaledfactorialproduct.com](https://scaledfactorialproduct.com)** — agency, currently open for new projects-->
 - ✉️ **renat@aomega.co**
-- 📞 **+1 (737) 288-6084**
 - 💼 **[linkedin.com/in/mpakus](https://www.linkedin.com/in/mpakus/)**
 
 <p align="center"><i>Build fast. Scale cheap. Ship yesterday.</i></p>
