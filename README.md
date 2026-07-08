@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Renat 👋</h1>
 
 <p align="center">
-  <b>Senior Full-Stack Developer · Austin ⭐︎ Texas</b><br/>
+  <b>Senior Full-Stack Developer · Austin ☆ Texas</b><br/>
   14+ years shipping production systems in <b>Ruby / Ruby on Rails</b> and <b>Elixir / Phoenix</b>.<br/>
   I build web apps, mobile apps, and AI-native SaaS — from napkin sketch to live production.
 </p>
@@ -29,14 +29,15 @@
 
 ### 🚀 Products I build & operate
 
-| Project                                                                                                            | What it is                                                                                                                                                                                                                                                            | Stack                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [**Eos Learning**](https://eoslearn.app)                                                                           | Free offline mobile app: a 12-week English grammar track structured specifically for Russian speakers. iOS + Android, no subscription, no account.                                                                                                                    | React Native · TypeScript · Expo                                                                        |
-| [**ResellerIO**](https://resellerio.com)                                                                           | AI inventory & listing tool for resellers. One product → marketplace-tuned copy for 12 platforms (eBay, Depop, Poshmark, Mercari, Grailed, Vestiaire, thredUp, Etsy, +4 more). Background removal, AR lifestyle photos, AI price research, branded seller storefront. | Phoenix · LiveView · Oban · Backpex · Gemini Vision · Claude API · OpenAI API · SerpAPI · Photoroom API |
-| [**Papereg**](https://papereg.com)                                                                                 | Paper-form digitization SaaS. AI PDF parsing, OCR auto-fill, batch upload, 31 field types, 14 industry templates, 63 preset reports, and a custom JSON Report Definition Language (JRDL).                                                                             | Elixir · Phoenix · LiveView · Backpex · PostgreSQL · Claude API                                         |
-| [**Texas Heavy**](https://texas-heavy.com)                                                                         | The Texas heavy-metal community hub — live show calendar, band profiles, gallery, classifieds. Real-time LiveView everywhere.                                                                                                                                         | Elixir · Phoenix · LiveView · Tailwind · Backpex                                                        |
-| [**Made by Human**](https://made-by-human.com)                                                                     | A platform championing human-crafted products & services — creator profiles, content verification, authenticity badges.                                                                                                                                               | HTML5 · CSS3                                                                                            |
-| [**GitHub PR Review**](https://chromewebstore.google.com/detail/github-pr-review/iihladoicepmaodjmoaphgnkadomnhco) | Chrome extension for faster PR reviewing on GitHub.                                                                                                                                                                                                                   | JavaScript                                                                                              |
+| Project                                                                                                            | What it is                                                                                                                                                                                                                                                            | Stack                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [**Oceanowledge**](https://oceanowledge.com)                                                                       | Open learning platform where expert authors publish structured courses                                                                                                                                                                                                | Elixir · Phoenix · LiveView · PostgreSQL · Resend · S3                                            |
+| [**Papereg**](https://papereg.com)                                                                                 | Paper-form digitization SaaS. AI PDF parsing, OCR auto-fill, batch upload, 31 field types, 14 industry templates, 63 preset reports, and a custom JSON Report Definition Language (JRDL).                                                                             | Elixir · Phoenix · LiveView · Backpex · PostgreSQL · Claude API · Resend · S3                     |
+| [**ResellerIO**](https://resellerio.com)                                                                           | AI inventory & listing tool for resellers. One product → marketplace-tuned copy for 12 platforms (eBay, Depop, Poshmark, Mercari, Grailed, Vestiaire, thredUp, Etsy, +4 more). Background removal, AR lifestyle photos, AI price research, branded seller storefront. | Elixir · Phoenix · LiveView · Oban · Backpex · Gemini API · SerpAPI · Photoroom API · Resend · S3 |
+| [**Texas Heavy**](https://texas-heavy.com)                                                                         | The Texas heavy-metal community hub — live show calendar, band profiles, gallery, classifieds. Real-time LiveView everywhere.                                                                                                                                         | Elixir · Phoenix · LiveView · Tailwind · Backpex                                                  |
+| [**Eos Learning**](https://eoslearn.app)                                                                           | Free offline mobile app: a 12-week English grammar track structured specifically for Russian speakers. iOS + Android, no subscription, no account.                                                                                                                    | React Native · TypeScript · Expo                                                                  |
+| [**Made by Human**](https://made-by-human.com)                                                                     | A platform championing human-crafted products & services — creator profiles, content verification, authenticity badges.                                                                                                                                               | HTML5 · CSS3                                                                                      |
+| [**GitHub PR Review**](https://chromewebstore.google.com/detail/github-pr-review/iihladoicepmaodjmoaphgnkadomnhco) | Chrome extension for faster PR reviewing on GitHub.                                                                                                                                                                                                                   | JavaScript                                                                                        |
 
 ---
 
@@ -66,6 +67,7 @@
 
 **Infra & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -74,6 +76,8 @@
 
 **AI / LLM**
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E7CC3?style=flat&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-10B981?style=flat)
@@ -82,8 +86,10 @@
 
 ### ✍️ Writing
 
-I share what I learn on LinkedIn — Elixir / Ruby libraries, AI agent workflows, tooling, and the occasional war story. A few recent ones:
+I share what I learn on LinkedIn — Elixir / Ruby projects, AI agent workflows, tooling, and the occasional stories. A few recent ones:
 
+- [Bringing Old Legends to Life with Claude AI](https://www.linkedin.com/pulse/bringing-old-legends-life-claude-ai-renat-ibragimov-ljvsc/)
+- [How I build an English grammar app with AI](https://www.linkedin.com/pulse/how-i-build-english-grammar-app-ai-renat-ibragimov-iwile/)
 - [Brighter future with AI agents — or how coding routine is no longer boring](https://www.linkedin.com/pulse/brighter-future-ai-agents-how-coding-routine-longer-boring-ibragimov-sqrwc/)
 - [How I wrote a mobile app in two evenings](https://www.linkedin.com/pulse/how-i-wrote-mobile-app-two-evenings-renat-ibragimov-hlshc/)
 - [Collection of useful libraries for Elixir / Phoenix](https://www.linkedin.com/pulse/collection-useful-libraries-elixirphoenix-renat-ibragimov-vgqdc/)
@@ -109,7 +115,9 @@ I share what I learn on LinkedIn — Elixir / Ruby libraries, AI agent workflows
 ### 📬 Hire me / say hi
 
 - 🌐 **[aomega.co](https://aomega.co)** — personal site & resume
+
 <!--- 🏢 **[scaledfactorialproduct.com](https://scaledfactorialproduct.com)** — agency, currently open for new projects-->
+
 - ✉️ **renat@aomega.co**
 - 💼 **[linkedin.com/in/mpakus](https://www.linkedin.com/in/mpakus/)**
 
