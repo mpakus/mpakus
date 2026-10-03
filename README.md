@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Senior Full-Stack Developer · Austin ☆ Texas</b><br/>
-  14+ years shipping production systems in <b>Ruby / Ruby on Rails</b> and <b>Elixir / Phoenix</b>.<br/>
-  I build web apps, mobile apps, and AI-native SaaS — from napkin sketch to live production.
+  15+ years shipping production systems in <b>Ruby / Ruby on Rails</b> and <b>Elixir / Phoenix</b>.<br/>
+  I build web apps, mobile apps, desktop tools, and AI-native SaaS — from napkin sketch to live production.
 </p>
 
 <p align="center">
@@ -20,6 +20,7 @@
 - 💎 Fullstack **Ruby on Rails** with Hotwire, Stimulus, and React where it earns its keep
 - ⚗️ Real-time systems in **Elixir + Phoenix + LiveView** — dashboards, collaborative tools, high-throughput APIs
 - 📱 Cross-platform mobile apps in **React Native** (iOS + Android, shared logic)
+- 🖥️ Desktop tools in **Rust** with GPUI or Tauri + Svelte — Git workflows, Markdown workspaces, and local AI agents
 - 🤖 **AI-native products** built on the Claude, Gemini, OpenAI API — agents, MCP servers, tool use, RAG, streaming UX
 - 🏗️ Architecture & consulting — code audits, performance tuning, scaling, getting you off the "it works but slow" plateau
 
@@ -41,11 +42,24 @@
 
 ---
 
+### 🧰 Open-source projects & tools
+
+| Project | What it is | Stack / format |
+| --- | --- | --- |
+| [**1537paperstreet**](https://1537paperstreet.org/) · [Source](https://github.com/mpakus/1537paperstreet/) | Local Markdown workspace with preview, editing, Mermaid diagrams, KaTeX math, and optional local AI agent connections. | Rust · Tauri · Svelte · TypeScript |
+| [**Cuckoding**](https://cuckoding.com/) · [Source](https://github.com/mpakus/cuckoding.com) | Local coding-agent orchestration for macOS: planning, implementation, and review in Git worktrees, with reusable project knowledge. In beta preparation; no public release yet. | Elixir · Phoenix · LiveView · SQLite · Tauri |
+| [**GitRonimo**](https://github.com/mpakus/gitronimo) | Native macOS Git client for repository groups, diffs, branches, staging, commits, and stashes. | Rust · GPUI · gitoxide |
+| [**Elixir + Phoenix Codex Harness**](https://github.com/mpakus/harness-elixir) | Reusable repository harness for agent-assisted Elixir/Phoenix development: engineering guidance, project documentation, plan templates, and quality checks. | Markdown · Shell · Elixir/Phoenix conventions |
+| [**Randomio**](https://github.com/mpakus/randomio) | Portable Agent Skill for random integers, unique draws, and reproducible seeded results, using Python's standard library. | Python · Agent Skills |
+
+---
+
 ### 🛠 Tech I reach for
 
 **Languages**
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
@@ -58,6 +72,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=black)
 
 **Data**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -86,8 +102,13 @@
 
 ### ✍️ Writing
 
-I share what I learn on LinkedIn — Elixir / Ruby projects, AI agent workflows, tooling, and the occasional stories. A few recent ones:
+I share what I learn on LinkedIn — Elixir / Ruby / Rust projects, AI agent workflows, tooling, and the occasional story. Selected articles:
 
+- [Ride smarter, AI fuels better builds](https://www.linkedin.com/pulse/ride-smarter-ai-fuelds-better-builds-renat-ibragimov-54u6c/)
+- [The Eight Circuits & True Will from the top AI models](https://www.linkedin.com/pulse/eight-circuits-true-from-top-ai-models-renat-ibragimov-efioc/)
+- [A new Markdown editor & reader in Rust, Tauri, Svelte.](https://www.linkedin.com/pulse/new-markdown-editor-reader-rust-tauri-svelte-renat-ibragimov-jsinc)
+- [GIT GUI Client Built Over the Weekend Using Rust + GPUI](https://www.linkedin.com/pulse/git-gui-client-built-over-weekend-using-rust-gpui-renat-ibragimov-swaoc/)
+- [You can and should learn from AI!](https://www.linkedin.com/pulse/you-can-should-learn-from-ai-renat-ibragimov-zgdrc/)
 - [Bringing Old Legends to Life with Claude AI](https://www.linkedin.com/pulse/bringing-old-legends-life-claude-ai-renat-ibragimov-ljvsc/)
 - [How I build an English grammar app with AI](https://www.linkedin.com/pulse/how-i-build-english-grammar-app-ai-renat-ibragimov-iwile/)
 - [Brighter future with AI agents — or how coding routine is no longer boring](https://www.linkedin.com/pulse/brighter-future-ai-agents-how-coding-routine-longer-boring-ibragimov-sqrwc/)
