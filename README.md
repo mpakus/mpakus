@@ -20,7 +20,7 @@
 - 💎 Fullstack **Ruby on Rails** with Hotwire, Stimulus, and React where it earns its keep
 - ⚗️ Real-time systems in **Elixir + Phoenix + LiveView** — dashboards, collaborative tools, high-throughput APIs
 - 📱 Cross-platform mobile apps in **React Native** (iOS + Android, shared logic)
-- 🖥️ Desktop tools in **Rust** with GPUI or Tauri + Svelte — Git workflows, Markdown workspaces, and local AI agents
+- 🖥️ Desktop tools in **Rust** and **Swift** — Git clients, Markdown workspaces, a local 3MF viewer, and a macOS notch companion for coding agents
 - 🤖 **AI-native products** built on the Claude, Gemini, OpenAI API — agents, MCP servers, tool use, RAG, streaming UX
 - 🏗️ Architecture & consulting — code audits, performance tuning, scaling, getting you off the "it works but slow" plateau
 
@@ -46,9 +46,14 @@
 
 | Project | What it is | Stack / format |
 | --- | --- | --- |
-| [**1537paperstreet**](https://1537paperstreet.org/) · [Source](https://github.com/mpakus/1537paperstreet/) | Local Markdown workspace with preview, editing, Mermaid diagrams, KaTeX math, and optional local AI agent connections. | Rust · Tauri · Svelte · TypeScript |
-| [**Cuckoding**](https://cuckoding.com/) · [Source](https://github.com/mpakus/cuckoding.com) | Local coding-agent orchestration for macOS: planning, implementation, and review in Git worktrees, with reusable project knowledge. In beta preparation; no public release yet. | Elixir · Phoenix · LiveView · SQLite · Tauri |
+| [**Focus Island**](https://github.com/mpakus/focus-island) | macOS notch companion for Claude Code and Codex: focus timers, a task board, session monitoring, and Jira/ClickUp sync. Active fork of [dias-zhanabayev/focus-island](https://github.com/dias-zhanabayev/focus-island), release [v0.8.0](https://github.com/mpakus/focus-island/releases/tag/v0.8.0). | Swift |
+| [**YO3MFS**](https://github.com/mpakus/yo3mfs) | Offline 3MF viewer for macOS, Windows, and Linux. Shows Bambu Studio project colors and painted faces without a printer, Bambu Studio, or an account. [v1.3.1](https://github.com/mpakus/yo3mfs/releases/tag/v1.3.1). | Rust |
+| [**1537paperstreet**](https://1537paperstreet.org/) · [Source](https://github.com/mpakus/1537paperstreet/) | Local Markdown workspace for macOS, Linux, and Windows: preview, editing, age-encrypted notes, Mermaid, KaTeX, and an optional local AI agent. | Rust · Tauri · Svelte · TypeScript |
+| [**Cuckoding**](https://cuckoding.com/) · [Source](https://github.com/mpakus/cuckoding.com) | Local-first macOS menubar app for AI-agent teamwork: arenas, task boards, and role-based spec, implementation, and review. | Elixir · Phoenix · LiveView · SQLite · Tauri |
 | [**GitRonimo**](https://github.com/mpakus/gitronimo) | Native macOS Git client for repository groups, diffs, branches, staging, commits, and stashes. | Rust · GPUI · gitoxide |
+| [**mcp-server-db**](https://github.com/mpakus/mcp-server-db) | Elixir MCP servers for MySQL and PostgreSQL: SQL tools and table metadata over stdio or authenticated HTTP. Writes are off by default. | Elixir · MyXQL · Postgrex |
+| [**my2pg**](https://github.com/mpakus/mysql-to-postgres) | Rust CLI for migrating MySQL schemas and data to PostgreSQL, with inspect, plan, and streaming copy. In development. | Rust |
+| [**rails-update**](https://github.com/mpakus/rails-update) | Agent skill for Ruby on Rails upgrades: compatibility repairs, verification, and release safeguards. [v1.1.0](https://github.com/mpakus/rails-update/releases/tag/v1.1.0). | Ruby · Agent Skills |
 | [**Elixir + Phoenix Codex Harness**](https://github.com/mpakus/harness-elixir) | Reusable repository harness for agent-assisted Elixir/Phoenix development: engineering guidance, project documentation, plan templates, and quality checks. | Markdown · Shell · Elixir/Phoenix conventions |
 | [**Randomio**](https://github.com/mpakus/randomio) | Portable Agent Skill for random integers, unique draws, and reproducible seeded results, using Python's standard library. | Python · Agent Skills |
 
@@ -60,6 +65,7 @@
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
